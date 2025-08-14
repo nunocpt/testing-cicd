@@ -28,6 +28,7 @@ export function Welcome() {
             <p className="leading-6 text-gray-700 dark:text-gray-200 text-center">
               What&apos;s next?
             </p>
+            <h3>Testando um novo push</h3>
             <h1>{apiKey}</h1>
             <h2>{password}</h2>
             <ul>
