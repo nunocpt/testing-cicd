@@ -4,3 +4,6 @@
 # React Router
 /.react-router/
 /build/
+
+# Env / Secrets / DO NOT UPLOAD TO REPOqwdwqdwqdqwdqdqwdq
+.env
